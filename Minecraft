@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gemeinsame Notizen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <textarea id="textarea" placeholder="Schreibe hier..."></textarea>
+        <button id="saveBtn">Speichern</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
